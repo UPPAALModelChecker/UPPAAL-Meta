@@ -21,7 +21,7 @@ Steps to reproduce the behavior:
 A clear and concise description of what you expected to happen.
 
 **Version(s) of UPPAAL tested**
-A list of UPPAAL versions where the behaviour is observed, and optinally list versions where is works as expected. 
+A list of UPPAAL versions where the behaviour is observed, and optionally a version where it works as expected. 
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
